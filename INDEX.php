@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orientacion-Tutorias</Orientacion-Tutorias></title>
+</head>
+<body>
+  <ceter>
+    <h1>CBTis258  |  REPORTES</h1>
+  <hr>
+    <h3>Tutorias</h3>
+</ceter>
+  
+</body>
+</html>
