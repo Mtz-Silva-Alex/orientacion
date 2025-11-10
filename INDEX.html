@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orientacion-Tutorias</Orientacion-Tutorias></title>
+</head>
+<body>
+
+<header>
+  <h1>Cuestionario de Tutorías CBTis258</h1>
+</header>
+
+<form action="guardar.php" method="POST">
+  <label>Nombre del alumno:</label>
+  <input type="text" name="nombre" required>
+
+  <label>Grupo:</label>
+  <input type="text" name="grupo" required>
+
+  <label>¿Cómo te sientes en tus clases?</label>
+  <select name="estado_animo" required>
+    <option value="">Selecciona una opción</option>
+    <option value="Bien">Bien</option>
+    <option value="Regular">Regular</option>
+    <option value="Mal">Mal</option>
+  </select>
+
+  <label>Comentarios adicionales:</label>
+  <textarea name="comentarios" rows="4"></textarea>
+
+  <button type="submit">Enviar respuestas</button>
+</form>
+
+</body>
+</html>
