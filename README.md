@@ -1,2 +1,1 @@
-# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-el pishi proyecto
+el  proyecto de 3er parcial
